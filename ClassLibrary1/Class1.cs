@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Uplift.DataAccess
+namespace ClassLibrary1
 {
     public class Class1
     {
