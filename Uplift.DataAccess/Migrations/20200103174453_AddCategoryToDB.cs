@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Uplift.DataAccess.Migrations
 {
-    public partial class AddCategoryToDatabase : Migration
+    public partial class AddCategoryToDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
