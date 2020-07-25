@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="Migrations\20200103174453_AddCategoryToDB.cs" />
-    <Compile Include="Migrations\20200103174453_AddCategoryToDB.designer.cs" />
+    <Compile Include="Migrations\20200725112441_AddCategoryToDatabase.cs" />
+    <Compile Include="Migrations\20200725112441_AddCategoryToDatabase.designer.cs" />
     <Compile Include="Migrations\ApplicationDbContextModelSnapshot.cs" />
   </ItemGroup>
 
